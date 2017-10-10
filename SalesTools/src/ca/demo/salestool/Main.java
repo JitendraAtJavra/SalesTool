@@ -16,6 +16,7 @@ data.display();
 		System.out.println("This App show Salews Data!");
 		System.out.println("Test1");
 		System.out.println("This App show Salews Data1!");
+		System.out.println("This App show Salews Data2!");
 		
 	
 	}
